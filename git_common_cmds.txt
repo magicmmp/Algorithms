@@ -1,7 +1,11 @@
-1、
-$ git config --global user.name "magicmmp"
-$ git config --global user.email "2233973404@qq.com"
-2、
+1. git init
+2. git config --global user.name "magicmmp"
+3. git config --global user.email "2233973404@qq.com"
+4. git remote add origin git@github.com:magicmmp/Algorithms.git
+5. ssh-keygen -t rsa -C "2233973404@qq.com"
+6. git pull origin master
+7. git add *
+8. git commit -m "info"
 选择一个合适的地方，创建一个空目录：git init命令把这个目录变成Git可以管理的仓库。
 git add告诉Git，把文件添加到仓库：git add readme.txt
 git commit告诉Git，把文件提交到仓库：git commit -m "wrote a readme file"
