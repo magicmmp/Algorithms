@@ -10,7 +10,7 @@
 7. git add *
 8. git commit -m "info"
 9. git remote rm origin
-
+10.bai_du_yun , ssh root@182.61.26.154 ,mm: p$$123456
 
 1. git init
 2. git config --global user.name "magicmmp"
