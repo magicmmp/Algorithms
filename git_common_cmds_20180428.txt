@@ -2,6 +2,7 @@
 2. git config --global user.name "magicmmp"
 3. git config --global user.email "2233973404@qq.com"
 4. git remote add origin git@github.com:magicmmp/Algorithms.git
+4. git remote add origin git@github.com:magicmmp/Linux_program.git
 4. git remote add origin git@github.com:magicmmp/cgem.git
 4.git remote add origin git@github.com:magicmmp/My_Codes.git
 4.git remote add origin git@github.com:magicmmp/My_Python.git
