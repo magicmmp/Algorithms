@@ -22,5 +22,6 @@ int main()
     gets(s2);
     printf("you enter: ");
     puts(s2);
+
     return 0;
 }
